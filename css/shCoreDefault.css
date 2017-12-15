@@ -50,6 +50,7 @@
   font-size: 1em !important;
   min-height: inherit !important;
   min-height: auto !important;
+  word-break: break-all; /*解決代碼過長不換行的問題*/
 }
 
 .syntaxhighlighter {
